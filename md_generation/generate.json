@@ -1,0 +1,34 @@
+[
+    {
+        "schema": "../src/schema/args.json",
+        "md": "./docs/args.md"
+    },
+    {
+        "schema": "../src/schema/collection.json",
+        "md": "./docs/collection.md"
+    },
+    {
+        "schema": "../src/schema/deps.json",
+        "md": "./docs/deps.md"
+    },
+    {
+        "schema": "../src/schema/import.json",
+        "md": "./docs/import.md"
+    },
+    {
+        "schema": "../src/schema/linter.json",
+        "md": "./docs/linter.md"
+    },
+    {
+        "schema": "../src/schema/package.json",
+        "md": "./docs/package.md"
+    },
+    {
+        "schema": "../src/schema/schemaver.json",
+        "md": "./docs/schemaver.md"
+    },
+    {
+        "schema": "../src/schema/test.json",
+        "md": "./docs/test.md"
+    }
+]
